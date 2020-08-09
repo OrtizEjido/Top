@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Top</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label.dialog.add">Añadir</string>
+    <string name="label.dialog.cancel">Cancelar</string>
+    <string name="label.dialog.delete">Eliminar</string>
+
+    <string name="artist.hint.nombre">Nombre</string>
+    <string name="artist.hint.orden">Orden</string>
+    <string name="artist.hint.apellidos">Apellidos</string>
+    <string name="artist.hint.fechaNacimiento">Fecha de nacimiento</string>
+    <string name="artist.hint.edad">Edad</string>
+    <string name="artist.hint.estatura">Estatura(cm)</string>
+    <string name="artist.hint.lugarNacimiento">Lugar de nacimiento</string>
+    <string name="artist.hint.notas">Notas</string>
+
+    <string name="addArtist.dialogUrl.title">Añadir foto desde una URL</string>
+    <string name="addArtist.error.estaturaMin">La estatura minima debe ser 50cm</string>
+    <string name="addArtist.error.required">Este campo es requerido</string>
+
+    <string name="detalle.title">Detalle</string>
+    <string name="detalle.message.update.success">Datos almacenados correctamente</string>
+    <string name="detalle.message.update.fail">No se pudieron actualizar los datos, estamos trabajando en ello.</string>
+    <string name="detalle.chooser.title">Selecione uno</string>
+    <string name="detalle.dialogDelete.title">Eliminar foto</string>
+    <string name="detalle.dialogDelete.message">¿Esta seguro de querer eliminar la foto de %s?</string>
+
+    <string name="main.dialogDelete.title">Eliminar artista</string>
+    <string name="main.dialogDelete.message">¿Estas seguro de que deseas eliminar a %s?\nSe eliminará permanentemente.</string>
+    <string name="main.message.delete.success">Artista eliminado correctamente.</string>
+    <string name="main.message.delete.fail">El artista no ha sido eliminado correctamente.</string>
+</resources>
